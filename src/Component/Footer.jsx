@@ -3,7 +3,7 @@ import React from 'react'
 const Footer = () => {
   return (
     <>
-    <div className='bg-black' style={{width:"100%", height:"320px", marginTop:"90px"}}>
+    <div className='bg-black' style={{width:"100%", height:"", marginTop:"90px"}}>
 
       <div className='container' style={{color:"grey"}}>
         <div className='row' style={{padding:"50px"}}>
