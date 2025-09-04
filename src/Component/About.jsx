@@ -127,47 +127,47 @@ const About = () => {
           <div className="col-md-3">
             <img src="team-1.jpg" width={"100%"} />
             <h4>John Wilson</h4>
-            <h6 style={{ color: "red" }}>Web Designer</h6>
+            <p style={{ color: "red" }}>Web Designer</p>
             <br />
           </div>
           <div className="col-md-3">
             <img src="team-2.jpg" width={"100%"} />
             <h4>Robert Wills</h4>
-            <h6 style={{ color: "red" }}>Web Developer</h6>
+            <p style={{ color: "red" }}>Web Developer</p>
             <br />
           </div>
           <div className="col-md-3">
             <img src="team-3.jpg" width={"100%"} />
             <h4>Mike Smith</h4>
-            <h6 style={{ color: "red" }}>Graphic Designer</h6>
+            <p style={{ color: "red" }}>Graphic Designer</p>
             <br />
           </div>
           <div className="col-md-3">
             <img src="team-4.jpg" width={"100%"} />
             <h4>Adrian Henderson</h4>
-            <h6 style={{ color: "red" }}>System Analyst</h6>
+            <p style={{ color: "red" }}>System Analyst</p>
             <br />
           </div>
 
           <div className="col-md-3">
             <img src="team-5.jpg" width={"100%"} />
             <h4>John Wilson</h4>
-            <h6 style={{ color: "red" }}>Web Programmer</h6>
+            <p style={{ color: "red" }}>Web Programmer</p>
           </div>
           <div className="col-md-3">
             <img src="team-6.jpg" width={"100%"} />
             <h4>Robert Wills</h4>
-            <h6 style={{ color: "red" }}>Web Designer</h6>
+            <p style={{ color: "red" }}>Web Designer</p>
           </div>
           <div className="col-md-3">
             <img src="team-7.jpg" width={"100%"} />
             <h4>Mike Smith</h4>
-            <h6 style={{ color: "red" }}>Graphic Designer</h6>
+            <p style={{ color: "red" }}>Graphic Designer</p>
           </div>
           <div className="col-md-3">
             <img src="team-8.jpg" width={"100%"} />
             <h4>Adrian Henderson</h4>
-            <h6 style={{ color: "red" }}>SEO</h6>
+            <p style={{ color: "red" }}>SEO</p>
           </div>
         </div>
       </div>
