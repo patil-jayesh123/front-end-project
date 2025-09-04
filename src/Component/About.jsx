@@ -13,6 +13,37 @@ const About = () => {
       <br />
       <br />
       <center>
+      <div className="container">
+        <div className="row">
+          <div className="col-md-2">
+            <h1><i class="bi bi-bezier"></i></h1>
+            <h6>UI/UX Design</h6>
+          </div>
+          <div className="col-md-3">
+            <h1><i class="bi bi-code-slash"></i></h1>
+            <h6>Web Development</h6>
+          </div>
+          <div className="col-md-2">
+            <h1><i class="bi bi-terminal-plus"></i></h1>
+            <h6>Product Design</h6>
+          </div>
+          <div className="col-md-3">
+            <h1><i class="bi bi-phone"></i></h1>
+            <h6>Mobile Apps</h6>
+          </div>
+          <div className="col-md-2">
+            <h1><i class="bi bi-search"></i></h1>
+            <h6>SEO</h6>
+          </div>
+        </div>
+      </div>
+      </center>
+      <br/>
+      <br/>
+      <br/>
+
+
+      <center>
         <h1 style={{ color: "black" }}>About page</h1>
       </center>
       <br />

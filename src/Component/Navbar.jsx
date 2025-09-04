@@ -7,8 +7,8 @@ const Navbar = () => {
 
   return (
     <>
-      <nav className="navbar navbar-expand-lg m-auto bg-dark"style={{width:"100%", position:"fixed"}}>
-        <div className="container">
+      <nav className="navbar navbar-expand-lg m-auto "style={{width:"100%", position:"absolute"}}>
+        <div className="container ">
           <a className="navbar-brand" href="#">
             <h2 style={{color:"white"}}>A<span style={{color:"#ED2939"}}>v</span>o</h2>
           </a>
